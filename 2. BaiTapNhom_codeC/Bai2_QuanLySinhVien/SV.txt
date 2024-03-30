@@ -1,0 +1,4 @@
+MSSV		Ten SV		Tuoi	Gioi Tinh	Web		Lap Trinh	Tieng Anh	Diem TB
+PP09999		Ngo Van An	19	Nam		5.90		8.50		9.70		8.03
+PP04444		Nguyen Van Bo	20	Nu		7.00		7.50		4.50		6.33
+PP03261		Tran Thu Huyen	25	Nu		10.00		9.50		9.00		9.50
